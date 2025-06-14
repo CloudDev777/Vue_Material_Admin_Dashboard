@@ -1,11 +1,6 @@
 # Vue Material Admin
 
 
-[![CircleCI](https://circleci.com/gh/tookit/vue-material-admin/tree/dev.svg?style=svg)](https://circleci.com/gh/tookit/vue-material-admin/tree/dev)
-
-English | [简体中文](./README.zh-CN.md) 
-
-
 ## Introduction
 Vue Material Admin Template is a [Vue](https://vuejs.org/index.html/) Based Material Design Admin Template.
 And use [Vuetifyjs](https://vuetifyjs.com/) as base framework.
